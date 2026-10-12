@@ -285,7 +285,10 @@ The following values were verified:
 
 The Johannesburg city button was selected correctly and the corresponding background image was displayed.
 
-![Johannesburg Weather Dashboard](screenshots/01-johannesburg.png)
+<img width="555" height="937" alt="image" src="https://github.com/user-attachments/assets/9119d055-8541-417b-bcfb-628b6e1b045a" />
+<img width="542" height="933" alt="image" src="https://github.com/user-attachments/assets/0bc98454-8da0-47a4-8a2b-7ba4b9c7480d" />
+
+
 
 **Result: PASS**
 
@@ -303,7 +306,8 @@ The following values were verified:
 
 The background image changed correctly and the Cape Town weather information was displayed.
 
-![Cape Town Weather Dashboard](screenshots/02-cape-town.png)
+<img width="557" height="938" alt="image" src="https://github.com/user-attachments/assets/dcd57154-4057-4532-9c8a-88ea5f3b0260" />
+
 
 **Result: PASS**
 
@@ -323,7 +327,8 @@ The following values were verified:
 
 The Durban background image and weather information displayed correctly.
 
-![Durban Weather Dashboard](screenshots/03-durban.png)
+<img width="553" height="925" alt="image" src="https://github.com/user-attachments/assets/61af5fa8-fb28-4673-939b-15bf610618ff" />
+
 
 **Result: PASS**
 
@@ -340,7 +345,8 @@ For example, the Johannesburg forecast displayed:
 
 The forecast was also tested for horizontal accessibility.
 
-![24 Hour Forecast](screenshots/04-hourly-forecast.png)
+<img width="552" height="946" alt="image" src="https://github.com/user-attachments/assets/2dce09c0-170b-41f8-b002-c89a2863a0c6" />
+
 
 **Result: PASS**
 
@@ -358,7 +364,8 @@ Each entry displayed:
 
 The high and low values were also checked to ensure that they were displayed correctly.
 
-![Five Day Forecast](screenshots/05-five-day-forecast.png)
+<img width="548" height="930" alt="image" src="https://github.com/user-attachments/assets/12aa8acd-3b7e-41b1-a189-196497a84907" />
+
 
 **Result: PASS**
 
@@ -376,7 +383,8 @@ For Durban, the values were:
 
 The test confirmed that Sunrise displayed the sunrise value rather than incorrectly displaying the sunset value.
 
-![Sun and Moon Information](screenshots/06-sun-moon.png)
+<img width="552" height="965" alt="image" src="https://github.com/user-attachments/assets/3cb9b35d-817c-4d19-8d50-9db08cf21d63" />
+
 
 **Result: PASS**
 
@@ -396,6 +404,9 @@ The following sections were confirmed to be accessible:
 8. Footer
 
 The dashboard remained accessible throughout the scrolling process.
+<img width="550" height="930" alt="image" src="https://github.com/user-attachments/assets/25c30aa7-f949-4cad-8b6b-a27e1a24d0f4" />
+<img width="548" height="936" alt="image" src="https://github.com/user-attachments/assets/4e86a073-62dc-4eb6-a44e-8a343ec551b1" />
+
 
 **Result: PASS**
 
@@ -458,14 +469,14 @@ ChatGPT by OpenAI was used to assist with:
 - Identifying possible bugs
 - Explaining TypeScript and React Native concepts
 - Suggesting corrections
-- Assisting with debugging
+
 - Structuring testing documentation
 - Reviewing application behaviour
-- Assisting with README documentation
+
 
 The supplied application remained the basis of the implementation. Suggested changes were reviewed and tested manually by the student using BlueStacks 5 and Expo Go.
 
-The student remains responsible for the final implementation, testing, documentation and submission.
+
 
 # 21. Learning Outcomes
 
@@ -554,16 +565,7 @@ The project is organised as follows:
 - `tsconfig.json` – TypeScript configuration
 - `README.md` – Project documentation
 
-## Screenshot Files
 
-Place the screenshots inside the `screenshots` folder using these exact names:
-
-- `screenshots/01-johannesburg.png`
-- `screenshots/02-cape-town.png`
-- `screenshots/03-durban.png`
-- `screenshots/04-hourly-forecast.png`
-- `screenshots/05-five-day-forecast.png`
-- `screenshots/06-sun-moon.png`
 
 # 28. Final Testing Statement
 
@@ -586,5 +588,6 @@ The following areas were successfully verified:
 All tested functionality passed successfully.
 
 **Final Result: PASS**
+<img width="556" height="932" alt="image" src="https://github.com/user-attachments/assets/dc13bf58-469c-4a18-83db-b6ecd2255b6d" />
 
 The Weather Dashboard is ready for submission.
